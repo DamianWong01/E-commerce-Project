@@ -27,9 +27,6 @@ Note: The data used in this project is synthetic and intended for learning and a
 ## Detailed Analysis
 For a comprehensive breakdown of the project, including objective, methodology, insights, and visualizations, please visit my portfolio at damian-wong.com.
 
-## How to Use
-Navigate to the notebooks folder and open the Jupyter Notebook to view the analysis. The notebook is well-commented and walks through the data analysis process step-by-step.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
